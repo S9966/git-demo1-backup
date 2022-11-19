@@ -4,5 +4,3 @@ standing strong
 on this their chosen battlefield
 
 commit number1
-
-commit number2
